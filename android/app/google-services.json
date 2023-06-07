@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712767497691",
+    "project_id": "ble-connector-5ddf2",
+    "storage_bucket": "ble-connector-5ddf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712767497691:android:8d3101eb7d8e232b2173fe",
+        "android_client_info": {
+          "package_name": "com.bleconnector.bleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712767497691-cq3o21uhk5m4fle49g2a5857q0293mbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn4TZE0yNuBv20JR5mAmoLveDJrYRwNnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712767497691-cq3o21uhk5m4fle49g2a5857q0293mbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
